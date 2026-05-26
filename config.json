@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevpdate",
+        "uuid": 6430050,
+        "checksum": "i8kv2t"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
